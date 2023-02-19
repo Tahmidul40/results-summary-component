@@ -105,16 +105,16 @@ a:active {
   color: hsla(224deg, 30%, 27%, 0.749);
 }
 .container .summary .reaction {
-  background-color: hsla(0deg, 100%, 67%, 0.2);
+  background-color: hsla(0deg, 100%, 67%, 0.05);
 }
 .container .summary .memory {
-  background-color: hsla(39deg, 100%, 56%, 0.2);
+  background-color: hsla(39deg, 100%, 56%, 0.05);
 }
 .container .summary .verbal {
-  background-color: hsla(166deg, 100%, 37%, 0.2);
+  background-color: hsla(166deg, 100%, 37%, 0.05);
 }
 .container .summary .visual {
-  background-color: hsla(234deg, 85%, 45%, 0.2);
+  background-color: hsla(234deg, 85%, 45%, 0.05);
 }
 .container .summary .btn {
   width: 100%;
